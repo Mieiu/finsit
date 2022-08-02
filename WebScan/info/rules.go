@@ -259,6 +259,8 @@ var RuleDatas = []RuleData{
 	{"Spring env", "code", "(logback)"},
 	{"ueditor", "code", "(ueditor.all.js|UE.getEditor)"},
 	{"亿邮电子邮件系统", "code", "(亿邮电子邮件系统|亿邮邮件整体解决方案)"},
+
+	{"Adminer（<4.6.2-file）", "code", "Adminer"},
 }
 
 var Md5Datas = []Md5Data{
